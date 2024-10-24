@@ -1,0 +1,36 @@
+/* h1{
+    background-color: aqua;
+} */
+/* h1{
+    background-color: violet;
+} */
+
+/* .momo{
+    background-color: hotpink;
+}
+#hola{
+    background-color: crimson;
+} */
+
+
+/* 
+h1{
+    background-color: darkred !important;
+}
+
+.momo{
+    background-color: blue ;
+}
+
+#hola{
+    background-color: springgreen  ;
+} */
+
+
+
+ div h1{
+    background-color: aqua;
+}
+div .momo{
+    background-color: tomato ;
+}
