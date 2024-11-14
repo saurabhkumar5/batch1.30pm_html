@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+}
+header{
+    display: flex;
+    justify-content: center;
+    background-color: pink;
+    height: 50px;
+}
+span{
+    margin-right: 300px;
+}
+a{
+    margin-right: 20px;
+}
